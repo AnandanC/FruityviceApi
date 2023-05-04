@@ -1,1 +1,9 @@
 
+DROP TABLE IF EXISTS tblFruits;
+CREATE TABLE IF NOT EXISTS tblFruits(
+   Genus  VARCHAR(32)
+  ,Name   VARCHAR(64)
+  ,Id     INTEGER  NOT NULL PRIMARY KEY IDENTITY(1,1)
+  ,Family VARCHAR(32)
+  ,Order  VARCHAR(32)
+);
