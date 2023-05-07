@@ -1,0 +1,15 @@
+F:\DotNetProjects\Coding\BLL\Fruityvice.BLL\bin\Debug\net6.0\Fruityvice.BLL.deps.json
+F:\DotNetProjects\Coding\BLL\Fruityvice.BLL\bin\Debug\net6.0\Fruityvice.BLL.dll
+F:\DotNetProjects\Coding\BLL\Fruityvice.BLL\bin\Debug\net6.0\Fruityvice.BLL.pdb
+F:\DotNetProjects\Coding\BLL\Fruityvice.BLL\bin\Debug\net6.0\Fruityvice.Base.dll
+F:\DotNetProjects\Coding\BLL\Fruityvice.BLL\bin\Debug\net6.0\Fruityvice.Base.pdb
+F:\DotNetProjects\Coding\BLL\Fruityvice.BLL\obj\Debug\net6.0\Fruityvice.BLL.csproj.AssemblyReference.cache
+F:\DotNetProjects\Coding\BLL\Fruityvice.BLL\obj\Debug\net6.0\Fruityvice.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNetProjects\Coding\BLL\Fruityvice.BLL\obj\Debug\net6.0\Fruityvice.BLL.AssemblyInfoInputs.cache
+F:\DotNetProjects\Coding\BLL\Fruityvice.BLL\obj\Debug\net6.0\Fruityvice.BLL.AssemblyInfo.cs
+F:\DotNetProjects\Coding\BLL\Fruityvice.BLL\obj\Debug\net6.0\Fruityvice.BLL.csproj.CoreCompileInputs.cache
+F:\DotNetProjects\Coding\BLL\Fruityvice.BLL\obj\Debug\net6.0\Fruityvice.BLL.csproj.CopyComplete
+F:\DotNetProjects\Coding\BLL\Fruityvice.BLL\obj\Debug\net6.0\Fruityvice.BLL.dll
+F:\DotNetProjects\Coding\BLL\Fruityvice.BLL\obj\Debug\net6.0\refint\Fruityvice.BLL.dll
+F:\DotNetProjects\Coding\BLL\Fruityvice.BLL\obj\Debug\net6.0\Fruityvice.BLL.pdb
+F:\DotNetProjects\Coding\BLL\Fruityvice.BLL\obj\Debug\net6.0\ref\Fruityvice.BLL.dll

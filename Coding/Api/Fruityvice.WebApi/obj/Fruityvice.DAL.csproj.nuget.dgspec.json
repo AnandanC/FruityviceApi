@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\DotNetProjects\\Coding\\DAL\\Fruityvice.DAL\\Fruityvice.DAL.csproj": {}
+  },
+  "projects": {
+    "F:\\DotNetProjects\\Coding\\DAL\\Fruityvice.DAL\\Fruityvice.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\DotNetProjects\\Coding\\DAL\\Fruityvice.DAL\\Fruityvice.DAL.csproj",
+        "projectName": "Fruityvice.WebApi",
+        "projectPath": "F:\\DotNetProjects\\Coding\\DAL\\Fruityvice.DAL\\Fruityvice.DAL.csproj",
+        "packagesPath": "C:\\Users\\muthuraman\\.nuget\\packages\\",
+        "outputPath": "F:\\DotNetProjects\\Coding\\Api\\Fruityvice.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\muthuraman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+F:\DotNetProjects\Coding\Base\Fruityvice.Base\bin\Debug\net6.0\Fruityvice.Base.deps.json
+F:\DotNetProjects\Coding\Base\Fruityvice.Base\bin\Debug\net6.0\Fruityvice.Base.dll
+F:\DotNetProjects\Coding\Base\Fruityvice.Base\bin\Debug\net6.0\Fruityvice.Base.pdb
+F:\DotNetProjects\Coding\Base\Fruityvice.Base\obj\Debug\net6.0\Fruityvice.Base.csproj.AssemblyReference.cache
+F:\DotNetProjects\Coding\Base\Fruityvice.Base\obj\Debug\net6.0\Fruityvice.Base.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNetProjects\Coding\Base\Fruityvice.Base\obj\Debug\net6.0\Fruityvice.Base.AssemblyInfoInputs.cache
+F:\DotNetProjects\Coding\Base\Fruityvice.Base\obj\Debug\net6.0\Fruityvice.Base.AssemblyInfo.cs
+F:\DotNetProjects\Coding\Base\Fruityvice.Base\obj\Debug\net6.0\Fruityvice.Base.csproj.CoreCompileInputs.cache
+F:\DotNetProjects\Coding\Base\Fruityvice.Base\obj\Debug\net6.0\Fruityvice.Base.dll
+F:\DotNetProjects\Coding\Base\Fruityvice.Base\obj\Debug\net6.0\refint\Fruityvice.Base.dll
+F:\DotNetProjects\Coding\Base\Fruityvice.Base\obj\Debug\net6.0\Fruityvice.Base.pdb
+F:\DotNetProjects\Coding\Base\Fruityvice.Base\obj\Debug\net6.0\ref\Fruityvice.Base.dll

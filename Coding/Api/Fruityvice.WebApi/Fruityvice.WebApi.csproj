@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SQLite" Version="1.0.117" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="AppData\fruityvicedb.db">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="hibernate.cfg.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+	
+<ItemGroup>
+		<InternalsVisibleTo Include="$(AssemblyName).Test" />
+</ItemGroup>
+	
+<ItemGroup>
+  <ProjectReference Include="..\..\Base\Fruityvice.Base\Fruityvice.Base.csproj" />
+  <ProjectReference Include="..\..\BLL\Fruityvice.BLL\Fruityvice.BLL.csproj" />
+</ItemGroup>
+
+</Project>

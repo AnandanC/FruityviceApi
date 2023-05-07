@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Fruityvice.WebApi.props" />
+</Project>

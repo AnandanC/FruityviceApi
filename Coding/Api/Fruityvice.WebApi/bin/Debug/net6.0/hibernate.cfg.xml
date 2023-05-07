@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-configuration xmlns = "urn:nhibernate-configuration-2.2">
+
+  <session-factory>
+
+    <!-- Database connection settings -->
+    <property name = "connection.connection_string">Data Source=fruityvicedb.db;Version=3;</property>
+    <property name = "connection.driver_class">NHibernate.Driver.SQLite20Driver</property>
+    <property name = "dialect">NHibernate.Dialect.SQLiteDialect</property>
+
+    <property name = "connection.provider">NHibernate.Connection.DriverConnectionProvider</property>
+  </session-factory>
+
+</hibernate-configuration>
