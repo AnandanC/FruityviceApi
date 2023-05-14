@@ -58,6 +58,8 @@ namespace Fruityvice.WebApi
                 }
             }
 
+            builder.Services.AddTransient(typeof(Base.IDefaultEntityRepository<>), typeof(Base.DefaultEntityRepository<>));
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

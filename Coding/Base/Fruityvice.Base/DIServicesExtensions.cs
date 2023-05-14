@@ -65,7 +65,9 @@
 
             try
             {
-                List<System.Type> implementationTypes = assemblies.SelectMany(x => x.GetExportedTypes()).Where(x => x.IsClass && !x.IsAbstract && x.BaseType != null && !string.IsNullOrWhiteSpace(x.BaseType.FullName)).ToList();
+                //List<System.Type> implementationTypes = assemblies.SelectMany(x => x.GetExportedTypes()).Where(x => x.IsClass && !x.IsAbstract && x.BaseType != null && !string.IsNullOrWhiteSpace(x.BaseType.FullName)).ToList();
+                List<System.Type> implementationTypes = assemblies.SelectMany(x => x.GetExportedTypes()).
+                    Where(x => x.IsClass && !x.IsAbstract && !x.IsGenericType && x.GetInterfaces().Count() > 0).ToList();
 
                 return GetAllServices(implementationTypes);
             }
